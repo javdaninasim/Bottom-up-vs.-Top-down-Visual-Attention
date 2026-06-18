@@ -17,23 +17,6 @@ This project implements, simulates, and compares both mechanisms, drawing on sem
 
 ---
 
-## Repository Structure
-
-```
-Bottom-up-vs.-Top-down-Visual-Attention/
-├── src/
-│   ├── bottom_up/        # Saliency map computation (feature conspicuity maps, WTA)
-│   ├── top_down/         # Goal-driven modulation and feature templates
-│   ├── priority_map/     # Integration of both signals
-│   └── visualization/    # Heatmap and scanpath rendering
-├── include/              # Header files
-├── data/                 # Sample input images
-├── results/              # Output attention maps and scanpaths
-├── CMakeLists.txt
-└── main.cpp
-```
-
----
 
 ## Contents
 
