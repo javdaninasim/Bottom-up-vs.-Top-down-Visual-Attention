@@ -456,6 +456,5 @@ This project implements well-established neuroscience models and is freely avail
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=964B00&height=100&section=footer" width="100%"/>
 </div>
-```
