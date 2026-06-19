@@ -428,7 +428,7 @@ Results/
 
 ---
 
-### 📞 Course Information
+### ℹ️ Course Information
 
 | Detail | Information |
 | :--- | :--- |
@@ -436,22 +436,6 @@ Results/
 | **Topic** | Computational Neuroscience / Computer Vision |
 | **Focus** | Visual attention mechanisms & eye-tracking |
 | **Paradigm** | Bridging neuroscience and computational modeling |
-
----
-
-### 📜 License & Attribution
-
-**License:** MIT (see LICENSE file)
-
-This project implements well-established neuroscience models and is freely available for academic and commercial use.
-
-**Author:** Nasim Javdani  
-**GitHub:** [@javdaninasim](https://github.com/javdaninasim)  
-**LinkedIn:** [Nasim Javdani](https://linkedin.com/in/nasim-javdani-810a9932a)
-
-**Key Contributors:**
-- Itti, Koch, Niebur (original saliency model)
-- SR Research (eye-tracking technology)
 
 ---
 
