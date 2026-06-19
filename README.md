@@ -436,9 +436,6 @@ Results/
 | **Topic** | Computational Neuroscience / Computer Vision |
 | **Focus** | Visual attention mechanisms & eye-tracking |
 | **Paradigm** | Bridging neuroscience and computational modeling |
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=964B00&height=100&section=footer" width="100%"/>
 </div>
