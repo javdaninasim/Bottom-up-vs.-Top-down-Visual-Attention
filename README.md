@@ -240,33 +240,6 @@ where:
 
 ---
 
-### 📥 Build & Compilation
-
-```bash
-# Prerequisites
-sudo apt-get install libopencv-dev cmake
-
-# Clone repository
-git clone https://github.com/javdaninasim/Bottom-up-vs.-Top-down-Visual-Attention.git
-cd Bottom-up-vs.-Top-down-Visual-Attention
-
-# Build
-mkdir build && cd build
-cmake ..
-make -j$(nproc)
-
-# Run
-./visual_attention ../images/sample.jpg
-```
-
-**Output:**
-- Saliency maps (bottom-up, top-down, combined)
-- Scanpath visualization
-- Fixation heatmaps
-- Results saved to `Results/` directory
-
----
-
 ### 📊 MATLAB Usage
 
 #### **EDF Data Conversion:**
